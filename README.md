@@ -231,6 +231,8 @@ All screenshots show fictional demo data. The user interface is in German, the l
 
 ## About
 
+<img src="assets/yaramed-logo.png" width="240" alt="YaraMed">
+
 YaraDent is designed and built by **Dr. Hamed Hosseinpour** at **YaraMed**, with feedback from
 practising dentists in Germany. For a demo or a walkthrough of the code, please get in touch:
 
