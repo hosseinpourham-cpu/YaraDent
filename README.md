@@ -19,10 +19,14 @@
   <img alt="Source" src="https://img.shields.io/badge/source-proprietary-lightgrey">
 </p>
 
+<p align="center">
+  <a href="https://youtu.be/2Da6cBIJ8Y0"><img alt="Watch the product demo on YouTube" src="https://img.shields.io/badge/%E2%96%B6%20Watch%20the%20product%20demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</p>
+
 > **About this repository.** YaraDent is a commercial product by YaraMed. The source code is
 > proprietary and kept in a private repository. This page describes what the system does and
-> how it is engineered. A live demo or a guided walkthrough of the code is available
-> [on request](#about).
+> how it is engineered. A recorded [product demo](#demo-video) is below; a live demo or a guided
+> walkthrough of the code is available [on request](#about).
 
 ![YaraDent workspace](assets/workspace.png)
 <sub>The workspace with a fictional demo patient: the dictation (left), suggested codes for the doctor to confirm (centre), and the generated report (right). Highlighted words are flagged for review, not silently changed.</sub>
@@ -38,6 +42,15 @@ A dentist or physician dictates during or after a treatment. YaraDent turns the 
 
 Everything runs on the practice's own computer: speech recognition, the language model and all data.
 No audio and no patient data leave the machine.
+
+## Demo video
+
+<p align="center">
+  <a href="https://youtu.be/2Da6cBIJ8Y0">
+    <img src="https://img.youtube.com/vi/2Da6cBIJ8Y0/maxresdefault.jpg" width="720" alt="YaraDent product demo on YouTube">
+  </a>
+</p>
+<p align="center"><sub>The complete product demo, covering all main functions. Click the image to watch on YouTube (in German).</sub></p>
 
 ## At a glance
 
